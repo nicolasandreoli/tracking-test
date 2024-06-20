@@ -1,0 +1,18 @@
+/* src/pages/ContactPage/ContactPage.css */
+
+.container {
+    max-width: 400px; /* Adjusted max-width for better readability */
+    margin: 50px auto; /* Increased top margin for better vertical centering */
+    padding: 40px; /* Increased padding for more space around the content */
+    background-color: #ffffff; /* Lighter background color for better contrast */
+    border: 1px solid #dddddd; /* Added border for a defined look */
+    border-radius: 8px; /* Added border-radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box-shadow for depth */
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
